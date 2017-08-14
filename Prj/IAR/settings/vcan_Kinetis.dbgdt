@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>980</ColumnWidth1>
+        <ColumnWidth2>261</ColumnWidth2>
+        <ColumnWidth3>65</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>166</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+        <item>mid</item><item>reliableMid</item><item>reliableLine</item><item>predicMid</item><item>l</item><item>r</item><item>i</item><item>sides</item><item>line</item><item>start</item><item>end</item><item>sides[1]</item><item>sides[2]</item><item>sides[3]</item><item>sides[4]</item><item>reliability</item><item>left</item><item>right[i]</item><item>left[i]</item><item>right</item><item>speed</item><item>line</item><item>weight_c</item><item>s</item><item>angle</item><item>line</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
+      </WATCH_1>
+    <QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory><item>sides[0]</item><item>sides</item><item>duty</item><item>currentTarget</item><item>isStart</item><item>mid</item><item>reliableLine</item><item>reliableMid</item><item>right</item><item>length</item><item>line</item><item>line[15]</item><item>whitemask</item></QWatchHistory></QuickWatch><CallStack><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>3500</item><item>20</item></col-widths></CallStack><Select-Ambiguous-Definitions><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12718-14673</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-12195-14683</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-2387-15498</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23466-14676</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>vcan_Kinetis</ExpandedNode><ExpandedNode>vcan_Kinetis/App</ExpandedNode><ExpandedNode>vcan_Kinetis/Usr</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-11051-6769</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1447-14679</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3371-15257</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        <Tab><Identity>TabID-30767-31335</Identity><TabName>Quick Watch</TabName><Factory>QuickWatch</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\gyro.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>176</SelStart2><SelEnd2>176</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Lib\CMSIS\Inc\core_cm4.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1460</YPos2><SelStart2>97581</SelStart2><SelEnd2>97581</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\IAR\startup_MK60DZ10.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>4</YPos2><SelStart2>672</SelStart2><SelEnd2>672</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>51</SelStart2><SelEnd2>51</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\angleCalculate.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>60</SelStart2><SelEnd2>60</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_ftm.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>8</XPos2><YPos2>583</YPos2><SelStart2>17173</SelStart2><SelEnd2>17173</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\kinetis\MK60F15.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9015</YPos2><SelStart2>550902</SelStart2><SelEnd2>550902</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\inc\VCAN_OV7725_REG.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>129</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\motorCurrentAD.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>163</SelStart2><SelEnd2>163</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\motor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>181</SelStart2><SelEnd2>190</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\dirControl.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>100</SelStart2><SelEnd2>100</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\currentControl.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>116</SelStart2><SelEnd2>116</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\camera.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>185</SelStart2><SelEnd2>185</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\angleControl.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>112</SelStart2><SelEnd2>118</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\encoder.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>277</SelStart2><SelEnd2>277</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\camera.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>149</SelStart2><SelEnd2>149</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\inc\VCAN_OV7725_Eagle.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>31</YPos2><SelStart2>2175</SelStart2><SelEnd2>2175</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\dirControl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2</YPos2><SelStart2>121</SelStart2><SelEnd2>121</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\fuzzycontrol.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>227</SelStart2><SelEnd2>227</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\system.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>423</SelStart2><SelEnd2>436</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\speedControl.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>92</SelStart2><SelEnd2>92</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\include.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>28</YPos2><SelStart2>1252</SelStart2><SelEnd2>1252</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\key.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>323</SelStart2><SelEnd2>323</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\menu.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>14</YPos2><SelStart2>841</SelStart2><SelEnd2>841</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\menu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>14</YPos2><SelStart2>663</SelStart2><SelEnd2>663</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\fuzzycontrol.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>10</YPos2><SelStart2>413</SelStart2><SelEnd2>413</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_SysTick.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>45</YPos2><SelStart2>1594</SelStart2><SelEnd2>1594</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\key.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>11</YPos2><SelStart2>583</SelStart2><SelEnd2>583</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\MK60_conf.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5</YPos2><SelStart2>3306</SelStart2><SelEnd2>3306</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_port.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>116</XPos2><YPos2>110</YPos2><SelStart2>4558</SelStart2><SelEnd2>4558</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>388</YPos2><SelStart2>13566</SelStart2><SelEnd2>13566</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\imageHandler.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>66</YPos2><SelStart2>1719</SelStart2><SelEnd2>1719</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>62</YPos2><SelStart2>1387</SelStart2><SelEnd2>1387</SelEnd2></Tab><ActiveTab>32</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\speedControl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>104</YPos2><SelStart2>2882</SelStart2><SelEnd2>2882</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>240</SelStart2><SelEnd2>240</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\src\VCAN_computer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>4</XPos2><YPos2>67</YPos2><SelStart2>2553</SelStart2><SelEnd2>2553</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\encoder.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>139</SelStart2><SelEnd2>139</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>63</YPos2><SelStart2>2516</SelStart2><SelEnd2>2525</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\angleCalculate.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>12</YPos2><SelStart2>330</SelStart2><SelEnd2>330</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\src\MK60_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>36</YPos2><SelStart2>978</SelStart2><SelEnd2>978</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\gyro.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>231</SelStart2><SelEnd2>231</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\motorCurrentAD.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>101</SelStart2><SelEnd2>101</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\currentControl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5</YPos2><SelStart2>596</SelStart2><SelEnd2>596</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\angleControl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>219</SelStart2><SelEnd2>219</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\imageHandler.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>11</YPos2><SelStart2>264</SelStart2><SelEnd2>286</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\system.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>23</YPos2><SelStart2>763</SelStart2><SelEnd2>763</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\src\VCAN_OV7725_Eagle.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>113</YPos2><SelStart2>3507</SelStart2><SelEnd2>3507</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Usr\motor.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>68</XPos2><YPos2>12</YPos2><SelStart2>527</SelStart2><SelEnd2>527</SelEnd2></Tab><ActiveTab>13</ActiveTab></Pane><Sizes><Pane><X>653295</X><Y>1000000</Y></Pane><Pane><X>346704</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05464638><key>iaridepm.enu1</key></Toolbar-05464638></Sizes></Row0><Row1><Sizes><Toolbar-2F3E6118><key>debuggergui.enu1</key></Toolbar-2F3E6118></Sizes></Row1><Row2><Sizes><Toolbar-2F3E6820><key>armjlink2.enu1</key></Toolbar-2F3E6820></Sizes></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>389</Bottom><Right>257</Right><x>-2</x><y>-2</y><xscreen>314</xscreen><yscreen>205</yscreen><sizeHorzCX>229868</sizeHorzCX><sizeHorzCY>299270</sizeHorzCY><sizeVertCX>189605</sizeVertCX><sizeVertCY>570803</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>389</Bottom><Right>178</Right><x>-2</x><y>-2</y><xscreen>314</xscreen><yscreen>205</yscreen><sizeHorzCX>229868</sizeHorzCX><sizeHorzCY>299270</sizeHorzCY><sizeVertCX>131772</sizeVertCX><sizeVertCY>570803</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>-2</Top><Left>176</Left><Bottom>389</Bottom><Right>411</Right><x>176</x><y>-2</y><xscreen>314</xscreen><yscreen>205</yscreen><sizeHorzCX>229868</sizeHorzCX><sizeHorzCY>299270</sizeHorzCY><sizeVertCX>172035</sizeVertCX><sizeVertCY>570803</sizeVertCY></Rect></Wnd3></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>203</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>205</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>299270</sizeHorzCY><sizeVertCX>229868</sizeVertCX><sizeVertCY>299270</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
